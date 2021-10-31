@@ -1,4 +1,6 @@
-## What Is Consciousness
+## Consciousness
+
+### What Is Consciousness
 Consciousness is the fact that you have experience: Suppose we would have a perfect description and functional understanding of the human mind and a perfect scan of your whole body and especially your brain. This might make it possible to understand and predict every neural activity and thought you have. But this perfect model obviously wouldn't change anything about the fact, that you have your inner experience. Even if we fully describe a system from the outside, there is still the inner experience how it 'feels' to be that system. This implies that no one can every be absolutely certain that someone else really has an internal experience. That's the definition of an internal experience: it is only experienced from the inside. Personal consciousness can take many shapes and include many perceptions, thoughts and feelings. But fundamentally consiousness is not its contents but it is what takes on these shapes.
 
 ### Qualia
