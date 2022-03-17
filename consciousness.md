@@ -1,3 +1,5 @@
+-> rather check out the [main page](https://augustinharter.github.io/patterns-of-meaning/)
+
 # Panpsychism
 The ideas in the following text are basicly unfalsifiable. I think they are still worth considering based on the ocams razor style argument of being a minimal consistent explanation. I think everything else needs more assumptions or runs intro contradictions. Change my mind :)
 
