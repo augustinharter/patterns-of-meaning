@@ -1,15 +1,14 @@
 # Patterns of Meaning
-There are many different perspectives on the nature of our mind: Psychology, Philosophy, Linguistics, Physics, Neuro science, Artificial Intelligence and Spirituality... A great explanation for the mind has to make sense from and acknowledge every perspective and should serve as a plattform of shared understanding where the individual perspectives can meet and learn from each other.
+There are many different perspectives on the nature of our mind: Psychology, Philosophy, Linguistics, Physics, Neuro science, Artificial Intelligence and Spirituality... A great explanation for the mind has to acknowledge every perspective and should serve as a plattform of shared understanding where the individual perspectives can meet and learn from each other.
 
 # Overview
 * I'll start of by claryfying what I mean when I use the word consciousness
-* Then I'll give you my favourite answer to the question 'how is our consciousness related to the brain?' by introducing an Information Theory of Consciousness
-* Lastly I'll give you my favourite answer to the question 'where does consciousness fundamentally come from?' by introducing Panpsychism
+* Then I'll give you my favorite answer to the question 'how is our consciousness related to the brain?' by introducing an Information Theory of Consciousness
+* Lastly I'll give you my favorite answer to the question 'where does consciousness fundamentally come from?' by introducing Panpsychism
 
 
 ## Subjective experiences itself as the meaning of consciousness
 Suppose we would have a perfect description and functional understanding of the human mind and a perfect scan of your whole body and especially your brain. This might make it possible to understand and predict every neural activity and thought you have. But this perfect model obviously wouldn't change anything about the fact, that you have your inner experience: **Even if we fully describe a system from the outside, there is still the inner experience how it 'feels' to be that system.** Internal experience and external description are directly coupled. They are two different perspectives on the same thing. Metaphorically speaking two sides of a coin. The existence of inner experience is what I'll refer to when talking about consciousness and not the notion of self-consciousness or 'being consciouss of something' which are specific inner experiences linked to specific cognitive functions.
-
 
 
 # An Information Theory of Consciousness and its Implications for free will and the self
